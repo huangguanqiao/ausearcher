@@ -1,5 +1,6 @@
 # ausearcher
+Developer: Daniel Huang
 
-For test
+This is the static source code for ausearcher.com
 
-Second Test
+I am planning to redesign the ausearcher tool.
